@@ -3,9 +3,9 @@ This package helps you making simple command line applications.
 
 ## Installation
 ```console
-git clone https://github.com/switchcodeur/cliapp
-cd cliapp
-python3 -m pip install -e .
+$ git clone https://github.com/switchcodeur/cliapp
+$ cd cliapp
+$ python3 -m pip install -e .
 ```
 
 ## Usage
