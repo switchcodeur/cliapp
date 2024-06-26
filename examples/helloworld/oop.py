@@ -1,4 +1,4 @@
-from cliapp import CliApp
+from cliapptool import CliApp
 
 
 class HelloWorld(CliApp):

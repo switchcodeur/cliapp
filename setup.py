@@ -7,7 +7,7 @@ classifiers = [
 ]
 
 setup(
-    name='cliapp',
+    name='cliapptool',
     version='1.0',
     description='Helps you making simple cli applications.',
     long_description='This package helps you making simple command line applications.',

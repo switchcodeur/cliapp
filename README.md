@@ -1,4 +1,4 @@
-# cliapp
+# cliapptool
 This package helps you making simple command line applications.
 
 ## Installation
